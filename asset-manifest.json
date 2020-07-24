@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/surveySparrow/static/css/main.30584dc1.chunk.css",
+    "main.js": "/surveySparrow/static/js/main.41c26c24.chunk.js",
+    "main.js.map": "/surveySparrow/static/js/main.41c26c24.chunk.js.map",
+    "runtime-main.js": "/surveySparrow/static/js/runtime-main.2c5d72f9.js",
+    "runtime-main.js.map": "/surveySparrow/static/js/runtime-main.2c5d72f9.js.map",
+    "static/js/2.766f39ba.chunk.js": "/surveySparrow/static/js/2.766f39ba.chunk.js",
+    "static/js/2.766f39ba.chunk.js.map": "/surveySparrow/static/js/2.766f39ba.chunk.js.map",
+    "index.html": "/surveySparrow/index.html",
+    "precache-manifest.0e0f987c77f9afd1b9e90a4fd7b51c42.js": "/surveySparrow/precache-manifest.0e0f987c77f9afd1b9e90a4fd7b51c42.js",
+    "service-worker.js": "/surveySparrow/service-worker.js",
+    "static/css/main.30584dc1.chunk.css.map": "/surveySparrow/static/css/main.30584dc1.chunk.css.map",
+    "static/js/2.766f39ba.chunk.js.LICENSE.txt": "/surveySparrow/static/js/2.766f39ba.chunk.js.LICENSE.txt",
+    "static/media/MainPage.module.css": "/surveySparrow/static/media/Banner.4a6ebd5a.png",
+    "static/media/textBox.module.css": "/surveySparrow/static/media/Montserrat-Bold.ade91f47.ttf",
+    "static/media/messageBox.module.css": "/surveySparrow/static/media/Montserrat-SemiBold.c641dbee.ttf",
+    "static/media/App.css": "/surveySparrow/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/close-24px.svg": "/surveySparrow/static/media/close-24px.b840e171.svg",
+    "static/media/menu-white-18dp.svg": "/surveySparrow/static/media/menu-white-18dp.5613db24.svg",
+    "static/media/send-24px-color.svg": "/surveySparrow/static/media/send-24px-color.f2ec4b6c.svg",
+    "static/media/send-24px.svg": "/surveySparrow/static/media/send-24px.cc48796f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c5d72f9.js",
+    "static/js/2.766f39ba.chunk.js",
+    "static/css/main.30584dc1.chunk.css",
+    "static/js/main.41c26c24.chunk.js"
+  ]
+}
