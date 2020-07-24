@@ -1,0 +1,38 @@
+.container  {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.logo   {
+    height: 25px;
+    width: 25px;
+    background-color: #4c5aa1;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.content  {
+    background-color: #ecf1fb;
+    max-width: 50%;
+    width: fit-content;
+    min-width: 5px;
+    color: #000000;
+    font-size: 70%;
+    padding: 8px 5%;
+    border-radius: 4px;
+    z-index: 1;
+    text-align: left;
+    position: relative;
+}
+
+.chatArrow  {
+    width: 0;
+    height: 0;
+    position: absolute;
+	border-top: 10px solid transparent;
+	border-left: 15px solid #ecf1fb;
+    border-bottom: 10px solid transparent;
+    bottom: -10px;
+    left: 0px;
+}

@@ -1,0 +1,15 @@
+.chatFooter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.chatFooter > img   {
+    height: 15px;
+    margin-right: 5px;
+}
+
+.chatFooter > div   {
+    font-size: 50%;
+    color: #a3a3a3;
+}

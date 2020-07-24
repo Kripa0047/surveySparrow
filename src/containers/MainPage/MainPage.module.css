@@ -1,0 +1,38 @@
+.container  {
+    background-image: url('../../assets/image/Banner.png');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.chatBox    {
+    position: fixed;
+    right: 40px;
+    bottom: 40px;
+}
+
+.chatButton, .chatCloseButton {
+    background-color: #ffffff;
+    height: 30px;
+    padding: 16px 14px 11px 14px;
+    border-radius: 50% 50% 3px 50%;
+    box-shadow: 3px 3px 5px #00000031;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.chatCloseButton    {
+    height: 25px;
+    padding: 14px 13px 11px 13px;
+}
+
+.chatButton:hover, .chatCloseButton:hover   {
+    background-color: #f0f0f0;
+}
+
+@media only screen and (max-width: 760px) {
+    .chatBox    {
+        bottom: 10px;
+        right: 10px;
+    }
+}

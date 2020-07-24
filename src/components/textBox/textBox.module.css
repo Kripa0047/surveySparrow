@@ -1,0 +1,32 @@
+.textContainer  {
+    font-family: Montserrat-Bold;
+    color: #ffffff;
+    font-size: 400%;
+    text-align: left;
+    margin-left: 150px;
+    line-height: 1;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    text-shadow: 0 0 5px #22222223;
+}
+
+
+@media only screen and (max-width: 1000px) {
+    .textContainer  {
+        margin-left: 100px;
+        font-size: 300%;
+    }
+}
+
+@media only screen and (max-width: 760px) {
+    .textContainer  {
+        margin-left: 50px;
+    }
+}
+
+
+@font-face {
+    font-family: Montserrat-Bold;
+    src: url('../../assets/font/Montserrat-Bold.ttf');
+}
